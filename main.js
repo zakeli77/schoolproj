@@ -1,1 +1,1 @@
-console.log("Hi")
+window.mcomver = 0
